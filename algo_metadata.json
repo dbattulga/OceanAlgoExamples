@@ -1,0 +1,9 @@
+{
+  "algorithm": {
+    "container": {
+      "image": "python",
+      "tag": "3.10",
+      "entrypoint": "python $ALGO"
+    }
+  }
+}
